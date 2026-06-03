@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Watt
     given-names: Stephen M.
-    orcid: "https://orcid.org/0000-0002-1234-5678"
+    orcid: "https://orcid.org/0000-0001-8303-4983"
 repository-code: "https://github.com/smwatt/GenericBoxTest1"
 license: BSD-3-Clause
 keywords:
